@@ -1,0 +1,29 @@
+.footer-container{
+    background-color: black;
+    padding-top: 18px;
+    color: white;
+    /* align-items: center; */
+}
+.footer-content{
+    display: grid;
+    grid-template-columns: 2fr 1.5fr 1.5fr;
+    grid-column-gap: 10px;
+    align-items: center;
+    text-align: center;
+}
+.footer-content h4{
+    text-align: center;
+}
+.footer-logo img{
+    width: 75px;
+}
+
+.footer-content li{
+    list-style: none;
+}
+
+.copyright{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}

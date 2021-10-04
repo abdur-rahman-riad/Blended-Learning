@@ -1,0 +1,39 @@
+.header-container{
+    background-color: white;
+    box-shadow: 1px 1px 5px #b8b8b8;
+}
+.nav-bar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding:10px 5px;
+    border-radius: 5px 5px 0 0;
+}
+.nav-logo{
+    display: flex;
+    align-items: center;
+}
+
+.nav-logo img{
+    width: 75px;
+}
+.nav-logo h2{
+    font-weight: 600;
+    margin-left: 5px;
+}
+
+.nav-item{
+    text-decoration: none;
+    padding: 5px 12px;
+    color: black;
+    font-weight: bold;
+    border-radius: 3px;
+    margin: 0 5px;
+    font-size: 18px;
+    transition: background-color 0.3s ease-in-out ;
+}
+
+.nav-item:hover{
+    background-color: black;
+    color: white;
+}
