@@ -1,0 +1,55 @@
+.about-container{
+    margin: 35px 0;
+}
+.about-container h3{
+    text-align: center;
+    font-weight: 600;
+    margin:35px 0 10px 0;
+}
+.aboutBanner-content{
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    grid-column-gap: 20px;
+    align-items: center;
+}
+
+.aboutBanner-img img{
+    width: 100%;
+}
+
+.aboutFaq-content{
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    grid-column-gap: 20px;
+    align-items: center;
+}
+
+.faqQuestion h5{
+    margin: 10px 0;
+    padding: 8px;
+    border-radius: 3px;
+    background-color: white;
+    box-shadow: 1px 1px 3px #aaaaaa;
+}
+
+.sponsor-content{
+    margin-top: 35px;
+    box-shadow: 1px 1px 3px #aaaaaa;
+    padding:35px 10px;
+}
+.sponsors{
+    display: flex;
+    justify-content: space-around;
+}
+.sponsors img{
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    box-shadow: 1px 1px 3px #aaaaaa;
+    padding: 15px;
+    border-radius: 5px;
+}
+.sponsor-content h3{
+    margin-top: -10px;
+    margin-bottom: 15px;
+}

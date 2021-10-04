@@ -5,13 +5,19 @@
 .banner-container{
     background-color: #fff7f7;
     padding: 10px;
-    border-bottom: 2px solid gray;
+    border-bottom: 1px solid lightgray;
 }
 
 .banner-content{
     display: flex;
     align-items: center;
     justify-content: space-between;
+}
+.banner-details h1{
+    font-weight: bold;
+}
+.banner-details span{
+    color: orangered;
 }
 .banner-details .btn-design{
     width: 150px;
@@ -31,10 +37,10 @@
     border-radius:0 0 10px 10px;
     padding: 10px;
     text-align: center;
-    box-shadow: 2px 2px 5px #acacac;
-    border-left: 2px solid #2c2c2c;
-    border-right: 2px solid #2c2c2c;
-    border-bottom: 3px solid #2c2c2c;
+    box-shadow: 1px 1px 3px #acacac;
+    border-left: 1px solid #2c2c2c;
+    border-right: 1px solid #2c2c2c;
+    border-bottom: 2px solid #2c2c2c;
 }
 
 .home-courses-container{
@@ -50,4 +56,12 @@
     grid-template-columns: repeat(4, 1fr);
     grid-column-gap: 10px;
     margin-bottom: 10px;
+}
+
+.category h5{
+    font-weight: 600;
+}
+
+.category img{
+    width: 50px;
 }

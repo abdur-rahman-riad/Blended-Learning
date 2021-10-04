@@ -3,6 +3,8 @@ import { Container, Button } from 'react-bootstrap';
 import useCourses from '../../hooks/useCourses';
 import banner from '../../images/home-banner.png';
 import Course from '../Course/Course';
+import ResearchIcon from '../../images/research.png';
+import ProgrammingIcon from '../../images/programming.png';
 import './Home.css';
 
 const Home = () => {
@@ -16,8 +18,8 @@ const Home = () => {
                 <Container>
                     <div className="banner-content">
                         <div className="banner-details">
-                            <h1>Welcome to Blended Learning</h1>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo recusandae harum rem, quae consequatur earum veritatis dolorum. Eos, ratione voluptatem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat, veniam!</p>
+                            <h1>Welcome to <br /> <span>Blended Learning</span></h1>
+                            <p>Blended Learning is online course providing platfrom where you will get several courses. These course are based on future demand of technology. you can learn more new thing that will be helpful for build your future carieer. if you are dedicated, determineted then Blended learning could be your best choice.</p>
                             <Button className="btn-design" variant="dark">Learn More</Button>
                             <Button className="btn-design" variant="dark">Enroll Now</Button>
                         </div>
@@ -32,16 +34,16 @@ const Home = () => {
                 <Container>
                     <div className="category-content">
                         <div className="category">
-                            <h2>Content-1</h2>
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Distinctio, alias.</p>
+                            <img src={ResearchIcon} alt="" />
+                            <h5>Research & Analysis</h5>
                         </div>
                         <div className="category">
-                            <h2>Content-1</h2>
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Distinctio, alias.</p>
+                            <img src={ProgrammingIcon} alt="" />
+                            <h5>Problem Solving</h5>
                         </div>
                         <div className="category">
-                            <h2>Content-1</h2>
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Distinctio, alias.</p>
+                            <img src={ResearchIcon} alt="" />
+                            <h5>Software Development</h5>
                         </div>
                     </div>
                 </Container>
