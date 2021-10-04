@@ -7,6 +7,7 @@ import About from './components/About/About'
 import NotFound from './components/NotFound/NotFound'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Courses from './components/Courses/Courses';
+import Other from './components/Other/Other';
 
 function App() {
 
@@ -30,6 +31,10 @@ function App() {
 
           <Route path="/courses">
             <Courses></Courses>
+          </Route>
+
+          <Route path="/other">
+            <Other></Other>
           </Route>
 
 

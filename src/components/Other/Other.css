@@ -1,0 +1,69 @@
+.others-container{
+    margin: 35px 0;
+}
+
+.contact-details{
+    /* box-shadow: 1px 1px 3px #aaaaaa;
+    background-color: white; */
+    /* border-radius: 5px;*/
+    padding: 15px 0;
+    margin: 25px 0;
+    text-align: center;
+}
+
+.contact-content{
+    margin: 5px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.contact{
+    display: flex;
+    align-items: center;
+    background-color: white;
+    box-shadow: 1px 1px 3px #aaaaaa;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 18px 0;
+}
+.contact img{
+    width: 35px;
+    margin-right: 10px;
+}
+
+.address{
+    font-weight: 600;
+    font-style: italic;
+    color: teal;
+}
+.counting-content{
+    /* background-color: white;
+    box-shadow: 1px 1px 3px #aaaaaa;
+    padding:20px 15px;
+    border-radius: 5px; */
+    width: 75%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.counting{
+    text-align: center;
+    padding: 10px;
+}
+
+.counting:hover{
+    box-shadow: 1px 1px 3px #aaaaaa;
+    border-radius: 5px;
+}
+
+.counting h3{
+    font-weight: 600;
+    font-size: 1.5em;
+}
+
+.counting img{
+    width: 100px;
+}
