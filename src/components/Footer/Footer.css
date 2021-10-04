@@ -2,7 +2,8 @@
     background-color: black;
     padding-top: 18px;
     color: white;
-    /* align-items: center; */
+    margin-top: 15px;
+    margin-bottom: -18px;
 }
 .footer-content{
     display: grid;
