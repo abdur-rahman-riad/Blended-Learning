@@ -1,9 +1,15 @@
 import React from 'react';
 import { Container, Button } from 'react-bootstrap';
+import useCourses from '../../hooks/useCourses';
 import banner from '../../images/home-banner.png';
+import Course from '../Course/Course';
 import './Home.css';
 
 const Home = () => {
+
+    const [courses] = useCourses();
+    const homeCourse = courses.slice(0, 4);
+
     return (
         <div className="home-container">
             <div className="banner-container">
@@ -41,50 +47,22 @@ const Home = () => {
                 </Container>
             </div>
 
-            <div className="home-services-container">
+            {/* Four Home Courses */}
+            <div className="home-courses-container">
                 <Container>
-                    <h2>Our Services</h2>
-                    <div className="home-services-content">
-                        <div className="home-service">
-                            <h2>Image Here</h2>
-                            <h3>Title Here</h3>
-                            <h4>Short Description</h4>
-                            <h4>Course Duration</h4>
-                            <h4>Rating</h4>
-                            <h5>Price</h5>
-                            <Button>Buy Now</Button>
-                        </div>
-                        <div className="home-service">
-                            <h2>Image Here</h2>
-                            <h3>Title Here</h3>
-                            <h4>Short Description</h4>
-                            <h4>Course Duration</h4>
-                            <h4>Rating</h4>
-                            <h5>Price</h5>
-                            <Button>Buy Now</Button>
-                        </div>
-                        <div className="home-service">
-                            <h2>Image Here</h2>
-                            <h3>Title Here</h3>
-                            <h4>Short Description</h4>
-                            <h4>Course Duration</h4>
-                            <h4>Rating</h4>
-                            <h5>Price</h5>
-                            <Button>Buy Now</Button>
-                        </div>
-                        <div className="home-service">
-                            <h2>Image Here</h2>
-                            <h3>Title Here</h3>
-                            <h4>Short Description</h4>
-                            <h4>Course Duration</h4>
-                            <h4>Rating</h4>
-                            <h5>Price</h5>
-                            <Button>Buy Now</Button>
-                        </div>
+                    <h2>Our Courses</h2>
+                    <div className="home-courses-content">
+                        {
+                            homeCourse.map(course => <Course
+                                key={course.key}
+                                course={course}
+                            ></Course>)
+                        }
                     </div>
                     <Button variant="dark">See All</Button>
                 </Container>
             </div>
+
         </div>
     );
 };

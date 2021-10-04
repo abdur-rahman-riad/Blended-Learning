@@ -1,0 +1,9 @@
+.allCourse-container{
+    text-align: center;
+    margin: 35px 0;
+}
+.allCourse-content{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 15px;
+}
