@@ -49,6 +49,7 @@
 }
 .home-courses-container Button{
     width: 150px;
+    margin-top: 20px;
 }
 
 .home-courses-content{
@@ -64,4 +65,8 @@
 
 .category img{
     width: 50px;
+}
+.our-courses{
+    font-weight: 600;
+    font-style: italic;
 }

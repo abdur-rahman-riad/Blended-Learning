@@ -4,95 +4,119 @@
     "price": 350,
     "img": "https://www.iberdrola.com/wcorp/gc/prod/en_US/comunicacion/machine_learning_mult_1_res/machine_learning_746x419.jpg",
     "title": "Machine Learning With Python",
+    "rating": 4.5,
+    "ratingCount": 32,
     "description": "Machine Learning is Now most used and favorite technology in computer science. Using machine learning we can predict, analysis and research.",
-    "duration": "120 Hour"
+    "duration": "120 hr"
   },
   {
     "key": "615a845f9f17d7a6057a8b8d",
-    "price": 350,
-    "img": "https://www.iberdrola.com/wcorp/gc/prod/en_US/comunicacion/machine_learning_mult_1_res/machine_learning_746x419.jpg",
-    "title": "Machine Learning With Python",
+    "price": 220,
+    "img": "https://miro.medium.com/max/840/1*RJMxLdTHqVBSijKmOO5MAg.jpeg",
+    "title": "10 Days Python Crash Course",
+    "rating": 4,
+    "ratingCount": 56,
     "description": "Machine Learning is Now most used and favorite technology in computer science. Using machine learning we can predict, analysis and research.",
-    "duration": "120 Hour"
+    "duration": "250 hr"
   },
   {
     "key": "615a845f4b71e6be9801b8d2",
-    "price": 350,
-    "img": "https://www.iberdrola.com/wcorp/gc/prod/en_US/comunicacion/machine_learning_mult_1_res/machine_learning_746x419.jpg",
-    "title": "Machine Learning With Python",
+    "price": 399,
+    "img": "https://leverageedu.com/blog/wp-content/uploads/2020/05/How-to-Learn-Spoken-English_.png",
+    "title": "Speak English With Confidence",
+    "rating": 3.5,
+    "ratingCount": 28,
     "description": "Machine Learning is Now most used and favorite technology in computer science. Using machine learning we can predict, analysis and research.",
-    "duration": "120 Hour"
+    "duration": "180 hr"
   },
   {
     "key": "615a845f60da8214e572b3a5",
-    "price": 350,
-    "img": "https://www.iberdrola.com/wcorp/gc/prod/en_US/comunicacion/machine_learning_mult_1_res/machine_learning_746x419.jpg",
-    "title": "Machine Learning With Python",
+    "price": 199,
+    "img": "https://i.ytimg.com/vi/wt5-Mcimw78/maxresdefault.jpg",
+    "title": "Microsoft Office Basic to Advanced",
+    "rating": 3.9,
+    "ratingCount": 72,
     "description": "Machine Learning is Now most used and favorite technology in computer science. Using machine learning we can predict, analysis and research.",
-    "duration": "120 Hour"
+    "duration": "150 hr"
   },
   {
     "key": "615a845f14a4b1397f56513c",
-    "price": 350,
-    "img": "https://www.iberdrola.com/wcorp/gc/prod/en_US/comunicacion/machine_learning_mult_1_res/machine_learning_746x419.jpg",
-    "title": "Machine Learning With Python",
+    "price": 550,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbwp9sdPqYaoakfLqbrj_gyvKi3gMg0AOFD2sFB4GQL1boc6BRuV64TTxHjky9gN2eeyo&usqp=CAU",
+    "title": "Data Analysis With R Programming",
+    "rating": 3.5,
+    "ratingCount": 27,
     "description": "Machine Learning is Now most used and favorite technology in computer science. Using machine learning we can predict, analysis and research.",
-    "duration": "120 Hour"
+    "duration": "200 hr"
   },
   {
     "key": "615a845f1c94939d530e39d0",
-    "price": 350,
-    "img": "https://www.iberdrola.com/wcorp/gc/prod/en_US/comunicacion/machine_learning_mult_1_res/machine_learning_746x419.jpg",
-    "title": "Machine Learning With Python",
+    "price": 199,
+    "img": "https://www.infirix.com/images/service/services/graphic-design-single.png",
+    "title": "Professional Graphics Design Course",
+    "rating": 3.8,
+    "ratingCount": 48,
     "description": "Machine Learning is Now most used and favorite technology in computer science. Using machine learning we can predict, analysis and research.",
-    "duration": "120 Hour"
+    "duration": "120 hr"
   },
   {
     "key": "615a845f602242f48f0f1a3c",
-    "price": 350,
-    "img": "https://www.iberdrola.com/wcorp/gc/prod/en_US/comunicacion/machine_learning_mult_1_res/machine_learning_746x419.jpg",
-    "title": "Machine Learning With Python",
+    "price": 499,
+    "img": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs3/113753414/original/576e3046b8a8ff648572e77c4a3e60391ad3ace8/do-great-cinematic-video-editing.png",
+    "title": "Learn Cinematic Video Editing",
+    "rating": 4.2,
+    "ratingCount": 35,
     "description": "Machine Learning is Now most used and favorite technology in computer science. Using machine learning we can predict, analysis and research.",
-    "duration": "120 Hour"
+    "duration": "220 hr"
   },
   {
     "key": "615a845f9274573b6ac784c4",
-    "price": 350,
-    "img": "https://www.iberdrola.com/wcorp/gc/prod/en_US/comunicacion/machine_learning_mult_1_res/machine_learning_746x419.jpg",
-    "title": "Machine Learning With Python",
+    "price": 320,
+    "img": "https://geekboots.sfo2.cdn.digitaloceanspaces.com/post/javascript-1567486564472.jpg",
+    "title": "Programming Foundation With JS",
+    "rating": 4.7,
+    "ratingCount": 61,
     "description": "Machine Learning is Now most used and favorite technology in computer science. Using machine learning we can predict, analysis and research.",
-    "duration": "120 Hour"
+    "duration": "120 hr"
   },
   {
     "key": "615a845fc0409edd20c7c29a",
-    "price": 350,
-    "img": "https://www.iberdrola.com/wcorp/gc/prod/en_US/comunicacion/machine_learning_mult_1_res/machine_learning_746x419.jpg",
-    "title": "Machine Learning With Python",
+    "price": 180,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnZAiCPlE2BQcHOTPJTKi7wPYEYXWzqeqgn86yfTG7_0j7ZVgL3kFgOLtC0ne1rV_xMbc&usqp=CAU",
+    "title": "Make a Successful Presentation Skills",
+    "rating": 4.1,
+    "ratingCount": 20,
     "description": "Machine Learning is Now most used and favorite technology in computer science. Using machine learning we can predict, analysis and research.",
-    "duration": "120 Hour"
+    "duration": "50 hr"
   },
   {
     "key": "615a845fcf373c3c2d749a63",
-    "price": 350,
-    "img": "https://www.iberdrola.com/wcorp/gc/prod/en_US/comunicacion/machine_learning_mult_1_res/machine_learning_746x419.jpg",
-    "title": "Machine Learning With Python",
+    "price": 260,
+    "img": "https://5.imimg.com/data5/HY/TA/ZG/SELLER-29605614/cyber-security-and-ethical-hacking-courses-500x500.png",
+    "title": "Cyber Security & Ethical Hacking",
+    "rating": 4.0,
+    "ratingCount": 29,
     "description": "Machine Learning is Now most used and favorite technology in computer science. Using machine learning we can predict, analysis and research.",
-    "duration": "120 Hour"
+    "duration": "220 hr"
   },
   {
     "key": "615a845f95f515bf24aa5202",
-    "price": 350,
-    "img": "https://www.iberdrola.com/wcorp/gc/prod/en_US/comunicacion/machine_learning_mult_1_res/machine_learning_746x419.jpg",
-    "title": "Machine Learning With Python",
+    "price": 120,
+    "img": "https://thumbs.dreamstime.com/b/public-speaking-word-cloud-tag-cloud-isolated-white-public-speaking-word-cloud-tag-cloud-isolated-118873908.jpg",
+    "title": "Introduction to Public Speaking",
+    "rating": 3.7,
+    "ratingCount": 13,
     "description": "Machine Learning is Now most used and favorite technology in computer science. Using machine learning we can predict, analysis and research.",
-    "duration": "120 Hour"
+    "duration": "10 hr"
   },
   {
     "key": "615a845ff746d7e3ad1b2bd1",
-    "price": 350,
-    "img": "https://www.iberdrola.com/wcorp/gc/prod/en_US/comunicacion/machine_learning_mult_1_res/machine_learning_746x419.jpg",
-    "title": "Machine Learning With Python",
+    "price": 450,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbsZR-hv0srlNfuyRpofr4eGqWJCB2VO1mDw&usqp=CAU",
+    "title": "Big Data Mining",
+    "rating": 4.3,
+    "ratingCount": 31,
     "description": "Machine Learning is Now most used and favorite technology in computer science. Using machine learning we can predict, analysis and research.",
-    "duration": "120 Hour"
+    "duration": "250 hr"
   }
 ]

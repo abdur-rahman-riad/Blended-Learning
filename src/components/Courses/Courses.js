@@ -9,7 +9,7 @@ const Courses = () => {
     return (
         <div className="allCourse-container">
             <Container>
-                <h2>Our All Courses</h2>
+                <h3 className="all-courses">Our All Courses</h3>
                 <div className="allCourse-content">
                     {
                         courses.map(course => <Course

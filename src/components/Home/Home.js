@@ -43,7 +43,7 @@ const Home = () => {
                         </div>
                         <div className="category">
                             <img src={ResearchIcon} alt="" />
-                            <h5>Software Development</h5>
+                            <h5>General Skills</h5>
                         </div>
                     </div>
                 </Container>
@@ -52,7 +52,8 @@ const Home = () => {
             {/* Four Home Courses */}
             <div className="home-courses-container">
                 <Container>
-                    <h2>Our Courses</h2>
+                    <h2 className="our-courses">Our Courses</h2>
+                    <hr />
                     <div className="home-courses-content">
                         {
                             homeCourse.map(course => <Course
@@ -61,7 +62,7 @@ const Home = () => {
                             ></Course>)
                         }
                     </div>
-                    <Button variant="dark">See All</Button>
+                    <Button variant="dark">See All Courses</Button>
                 </Container>
             </div>
 

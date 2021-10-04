@@ -21,7 +21,7 @@ const Other = () => {
                     </div>
                     <div className="counting">
                         <img src={Teacher} alt="" />
-                        <h3>15+ Teacher</h3>
+                        <h3>35+ Teacher</h3>
                     </div>
                     <div className="counting">
                         <img src={Students} alt="" />
