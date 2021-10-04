@@ -28,6 +28,9 @@
     height: 80px;
     border-radius: 50%;
 }
+.testimonials p{
+    font-style: italic;
+}
 
 .reviewer{
     display: grid;

@@ -15,13 +15,13 @@ const Testimonials = () => {
                             <img src={RandomUser} alt="" />
                             <h4>Gong Yoo</h4>
                             <h6>Web Developer</h6>
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam vitae maiores perferendis et atque assumenda cumque magni sint hic libero?</p>
+                            <p>Blended Learning courses are the most useful and effective. I have complete a few courses and it is a great experience for me.</p>
                         </div>
                         <div className="testimonials">
                             <img src={RandomUser2} alt="" />
                             <h4>Alden Heatley</h4>
                             <h6>Researcher</h6>
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam vitae maiores perferendis et atque assumenda cumque magni sint hic libero?</p>
+                            <p>Blended Learning courses are the most useful and effective. I have complete a few courses and it is a great experience for me.</p>
                         </div>
                     </div>
 

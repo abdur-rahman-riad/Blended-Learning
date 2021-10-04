@@ -16,7 +16,7 @@
     "title": "10 Days Python Crash Course",
     "rating": 4,
     "ratingCount": 56,
-    "description": "Machine Learning is Now most used and favorite technology in computer science. Using machine learning we can predict, analysis and research.",
+    "description": "Python is widely considered one of the easiest programming languages for a beginner to learn, but it is also difficult to master.",
     "duration": "250 hr"
   },
   {
@@ -26,7 +26,7 @@
     "title": "Speak English With Confidence",
     "rating": 3.5,
     "ratingCount": 28,
-    "description": "Machine Learning is Now most used and favorite technology in computer science. Using machine learning we can predict, analysis and research.",
+    "description": "There are many challenges to learning a new language, but none are perhaps more harmful than our lack of confidence.",
     "duration": "180 hr"
   },
   {
@@ -36,7 +36,7 @@
     "title": "Microsoft Office Basic to Advanced",
     "rating": 3.9,
     "ratingCount": 72,
-    "description": "Machine Learning is Now most used and favorite technology in computer science. Using machine learning we can predict, analysis and research.",
+    "description": "The Office suite includes Word, a word-processing program; Excel, a financial spreadsheet program; Access, a database..",
     "duration": "150 hr"
   },
   {
@@ -46,7 +46,7 @@
     "title": "Data Analysis With R Programming",
     "rating": 3.5,
     "ratingCount": 27,
-    "description": "Machine Learning is Now most used and favorite technology in computer science. Using machine learning we can predict, analysis and research.",
+    "description": "R analytics (or R programming language) is a free, open-source software used for all kinds of data science, statistics, and visualization projects.",
     "duration": "200 hr"
   },
   {
@@ -56,7 +56,7 @@
     "title": "Professional Graphics Design Course",
     "rating": 3.8,
     "ratingCount": 48,
-    "description": "Machine Learning is Now most used and favorite technology in computer science. Using machine learning we can predict, analysis and research.",
+    "description": "Wondering how to get a career in graphic design? You're certainly not alone. With many creatives rethinking their career options after..",
     "duration": "120 hr"
   },
   {
@@ -66,7 +66,7 @@
     "title": "Learn Cinematic Video Editing",
     "rating": 4.2,
     "ratingCount": 35,
-    "description": "Machine Learning is Now most used and favorite technology in computer science. Using machine learning we can predict, analysis and research.",
+    "description": "A film editor is the person that makes a film or television show come to life. Editors are as responsible for shaping the story, tone.",
     "duration": "220 hr"
   },
   {
@@ -76,7 +76,7 @@
     "title": "Programming Foundation With JS",
     "rating": 4.7,
     "ratingCount": 61,
-    "description": "Machine Learning is Now most used and favorite technology in computer science. Using machine learning we can predict, analysis and research.",
+    "description": "Learn foundational programming concepts (e.g., functions, for loops, conditional statements) and how to solve problems like a programmer.",
     "duration": "120 hr"
   },
   {
@@ -86,7 +86,7 @@
     "title": "Make a Successful Presentation Skills",
     "rating": 4.1,
     "ratingCount": 20,
-    "description": "Machine Learning is Now most used and favorite technology in computer science. Using machine learning we can predict, analysis and research.",
+    "description": "This page draws on published advice from expert presenters around the world, which will help to take your presentations from merely good.",
     "duration": "50 hr"
   },
   {
@@ -96,7 +96,7 @@
     "title": "Cyber Security & Ethical Hacking",
     "rating": 4.0,
     "ratingCount": 29,
-    "description": "Machine Learning is Now most used and favorite technology in computer science. Using machine learning we can predict, analysis and research.",
+    "description": "You guys always searching words like virus, malware, hacking and many other related works but could not get a satisfactory answer.",
     "duration": "220 hr"
   },
   {
@@ -106,7 +106,7 @@
     "title": "Introduction to Public Speaking",
     "rating": 3.7,
     "ratingCount": 13,
-    "description": "Machine Learning is Now most used and favorite technology in computer science. Using machine learning we can predict, analysis and research.",
+    "description": "In business, in school, and in public life, we are often called upon to “make a few comments.” Often, such speeches become flummoxed. ",
     "duration": "10 hr"
   },
   {
@@ -116,7 +116,7 @@
     "title": "Big Data Mining",
     "rating": 4.3,
     "ratingCount": 31,
-    "description": "Machine Learning is Now most used and favorite technology in computer science. Using machine learning we can predict, analysis and research.",
+    "description": "Data mining involves exploring and analyzing large amounts of data to find patterns for big data. he goal of the data mining is classification",
     "duration": "250 hr"
   }
 ]

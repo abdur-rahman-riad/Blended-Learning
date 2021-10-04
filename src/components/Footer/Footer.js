@@ -12,7 +12,7 @@ const Footer = () => {
                     <div className="footer-logo">
                         <img src={logo} alt="Site Logo" />
                         <h3>Blended Learning</h3>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat recusandae tempora ut aliquam fugit culpa iste</p>
+                        <p>Blended Learning is online course providing platfrom where you will get several courses.</p>
                     </div>
 
                     {/* Important Link */}
